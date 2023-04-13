@@ -1,4 +1,4 @@
-# Hi, I'm Peter Lambert
+# Hi, I'm Giada Pipicelli
 
 A Data Scientist from England, based in London. I'm currently working on a range of projects which I'd love to talk about.
 
@@ -18,8 +18,8 @@ A Data Scientist from England, based in London. I'm currently working on a range
 
 
 ## 📫 How to reach me: ...
-[![](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=mailto:eryajf@163.com)](https://www.linkedin.com/in/peter-lambert-13884a180/)
-[![Mail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Microsoft&logoColor=white&link=mailto:eryajf@163.com)](mailto:peter_lambert@hotmail.co.uk)
+[![](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=mailto:eryajf@163.com)](https://www.linkedin.com/in/giada-pipicelli)
+[![Mail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Microsoft&logoColor=white&link=mailto:eryajf@163.com)](mailto:giada.pipicelli1@gmail.com)
 
 
 ## Tools
