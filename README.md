@@ -31,10 +31,10 @@ A Data Scientist from England, based in London. I'm currently working on a range
 
 ## Stats
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=PeterLambertGitt&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="PeterLambertGitt" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=PeterLambertGitt&theme=material-palenight&hide_border=false" alt="giadapi" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=giadapi&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="giadapi" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=giadapi&theme=material-palenight&hide_border=false" alt="giadapi" /></p>
 
-![](https://github-profile-trophy.vercel.app/?username=PeterLambertGitt&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=giadapi&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 
 <!--
